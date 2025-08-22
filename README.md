@@ -8,7 +8,7 @@ Motivation
 * Viele Remote-Umgebungen (z. B. Web-VNC im Browser) erlauben kein Copy & Paste.
 * Lange und sichere Passwörter manuell einzutippen ist fehleranfällig und mühsam.
 * Dieses Skript löst das Problem, indem gespeicherte oder eingefügte Passwörter automatisch über eine virtuelle Tastatureingabe eingegeben werden.
-* 
+  
 
 Nutzung
 1. Starten Sie das Skript (`.ps1`) mit PowerShell.
