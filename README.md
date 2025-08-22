@@ -2,6 +2,7 @@ Virtuelle Tastatur für Passwörter (PowerShell POC)
 
 
 Dieses Projekt ist ein **Proof-of-Concept PowerShell-Skript**, das die Eingabe von Passwörtern in Umgebungen erleichtert, in denen **Copy & Paste deaktiviert** ist – z. B. bei Web-VNC-Verbindungen. Das Skript simuliert die Tastatureingabe, sodass lange und komplexe Passwörter nicht manuell eingetippt werden müssen.
+
 ⚠️ **Hinweis:** Dieses Projekt ist kein ausgereiftes Produkt, sondern ein funktionales POC. Der Fokus liegt auf **Einfachheit und Zweckmäßigkeit**, nicht auf Design oder Funktionsvielfalt.
 
 Motivation
